@@ -3,9 +3,6 @@ export default {
     content: [
       "./index.html",
       "./src/**/*.{js,ts,jsx,tsx}",
+      // Ajoutez tous vos fichiers ici
     ],
-    theme: {
-      extend: {},
-    },
-    plugins: [],
   }
